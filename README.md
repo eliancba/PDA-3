@@ -1,20 +1,20 @@
 # PRINCIPIOS DE DESARROLLO AGROPECUARIO
 ## NUEVAS TECNOLOGIAS APLICADAS AL AGRO - ISPC - 2025
 
-## EVIDENCIA DE APRENDIZAJE N° 3
-### ELIAN ALEXANDER PUCHETA
+#### EVIDENCIA DE APRENDIZAJE N° 3 - ELIAN ALEXANDER PUCHETA
 
-#
 ## DESCRIPCIÓN
 
-Este trabajo corresponde a la tercera evidencia de aprendizaje de la materia Nuevas Tecnologías Aplicadas al Agro. Este repositorio contiene:
+Este trabajo corresponde a la tercera evidencia de aprendizaje de la materia Nuevas Tecnologías Aplicadas al Agro. 
 
-✅ Una consigna de verdadero o falso 
+Actividades desarrolladas:
 
-📊 Un análisis basado en un gráfico
+✅ Verdadero o Falso: Reflexión crítica sobre el uso de tecnologías de precisión en la agricultura 4.0.
 
-🌱 Un plan de adopción tecnológica frente a una problemática del sector
+📊 Análisis de gráficos: Diagnóstico del ecosistema AgTech en Córdoba Capital a partir de datos del informe de CorLab.
 
-Agradezco al profe Emiliano por permitirme implementar esta evidencia en formato de repositorio. ¡Espero que le guste la presentación!
+🌱 Plan de adopción tecnológica: Propuesta para el manejo integrado de plagas en cultivos de maíz y soja, aplicando herramientas como sensores y monitoreo satelital.
+
+Agradezco al profesor Emiliano por permitirme implementar esta evidencia en formato repositorio. ¡Espero que disfrute la propuesta y presentación!
 
 #
